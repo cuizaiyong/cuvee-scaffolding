@@ -23,6 +23,6 @@
     "inquirer": "^7.1.0",
     "chalk": "^4.1.0",
     "ora": "^4.0.4",
-    "simple-git": "^2.6.0"
+    "simple-git": "^3.3.0"
   }
 }
